@@ -10,7 +10,7 @@ Too much free time that i tried making this work
 
 ### More Information
 
-Try "insert resueme here for future references"
+Try "insert resume here for future references"
 
 ### Contact me
 
