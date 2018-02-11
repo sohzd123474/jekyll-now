@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Name:Soh Zheng Da
+DOB: 23 Feb 1999
+Too much free time that i tried making this work
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Try "insert resueme here for future references"
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sohzd123@hotmail.com](mailto:sohzd123@hotmail.com)
